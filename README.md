@@ -33,4 +33,10 @@ Sortie le 6 juillet 2019, c'est un film où une méchante sorcière s'empare d'u
 
 Lui aussi sorti en fin Juillet 2019, c'est l'histoire de la jalousie d'un berger pour un chien surdoué pour garder les moutons. Il va tout tenter pour le voler !!!
 
-[![Pongo Berger]
+[![Pongo Berger](Pongoberger.PNG)](https://www.youtube.com/watch?v=tI7Nhu1DVwk)
+
+### Troisième Tentative 001
+
+N'étant pas encore sorti, ce film d'espionnage est prévu pour Janvier 2020. 
+
+[![Troisième Tentative 001](
