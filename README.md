@@ -7,3 +7,5 @@ Si vous voulez avoir une vue de nos films, vous pouvez aller dans la page "bande
 Aussi, vous pouvez aller vister notre chaîne Youtube et y voir nos dessins-animés "Tiago et Roméo" en cliquant sur le liens ci-dessous. 
 
 [Notre chaîne Youtube](https://www.youtube.com/channel/UCJlcDHQKwoStAThGKNaWd3A)
+
+![L'affiche de bourgau films](affiche-bourgau-films.png)
