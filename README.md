@@ -43,15 +43,16 @@ N'étant pas encore sorti, ce film d'espionnage est prévu pour Janvier 2020.
 
 ## Nous contacter
 
-Si vous voulez nous signaler des défauts ou nous donner des conseils pour améliorer nos films ou nos Tiago et Roméo, vous pouvez écrire à l'adresse bourgau.films@gmail.com .
+Si vous voulez nous signaler des défauts ou nous donner des conseils pour améliorer nos films ou nos Tiago et Roméo, vous pouvez nous écrire par l'adresse ci-dessous. 
+[Notre E-mail](bourgau.films@gmail.com) 
 
 ## Ce qui pourrai vous interresser
 
-(https://www.1jour1actu.com/info-animee/qui-a-invente-le-cinema/)
-(https://www.youtube.com/watch?v=xo3nJ6geylU)
-(https://www.youtube.com/watch?v=4F85-sODG48)
+[1jour1actu-petite histoire du cinéma](https://www.1jour1actu.com/info-animee/qui-a-invente-le-cinema/)
+[C'est pas sorcier-la magie des effets spéciaux](https://www.youtube.com/watch?v=xo3nJ6geylU)
+[C'est pas sorcier-silence on tourne](https://www.youtube.com/watch?v=4F85-sODG48)
 
-   Nous espérons que ces vidéos vous ont plu et qu'elles vous ont appris des choses
+   Nous espérons que ces vidéos vous ont plu et qu'elles vous ont appris des choses.
    
 # Merci et à bientot sur Bourgau Film's !!!   
 
