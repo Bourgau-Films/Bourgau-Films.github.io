@@ -15,7 +15,7 @@ Aussi, vous pouvez aller vister notre chaîne Youtube et y voir nos dessins-anim
 Aujourd'hui, Noah Bourgau, Julie Bourgau et Grégoire Vangraefschepe sont des membres de _Bourgau Film's_ et réalisent au quotidien différentes scènes des films en cour de réalisation. Ils sont tous les trois très heureux de voir que _Bourgau Film's_ évolue jours après jours grâce à vous. 
 
 ## Nos films
-Pour avoir un aperçu de chaques films, vous pouvez regarder les bandes-annonces en cliquant sur les images ci-jointes.  
+Pour avoir un aperçu de chaque film, vous pouvez regarder les bandes-annonces en cliquant sur les images ci-jointes.  
 
 ### La Conduite Volée
 
@@ -40,3 +40,7 @@ Lui aussi sorti en fin Juillet 2019, c'est l'histoire de la jalousie d'un berger
 N'étant pas encore sorti, ce film d'espionnage est prévu pour Janvier 2020. 
 
 [![Troisième Tentative 001](Troisièmetentative001.png)](https://www.youtube.com/watch?v=4NtmfqOH3K8)
+
+## Nous contacter
+
+Si vous voulez nous signaleer des défauts ou nous donner des conseils pour améliorer nos films ou nos Tiago et Roméo, vous pouvez écrire à l'adresse bourgau.films@gmail.com .
