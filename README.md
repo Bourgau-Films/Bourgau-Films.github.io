@@ -45,6 +45,17 @@ N'étant pas encore sorti, ce film d'espionnage est prévu pour Janvier 2020.
 
 Si vous voulez nous signaler des défauts ou nous donner des conseils pour améliorer nos films ou nos Tiago et Roméo, vous pouvez écrire à l'adresse bourgau.films@gmail.com .
 
+## Ce qui pourrai vous interresser
+
+(https://www.1jour1actu.com/info-animee/qui-a-invente-le-cinema/)
+(https://www.youtube.com/watch?v=xo3nJ6geylU)
+(https://www.youtube.com/watch?v=4F85-sODG48)
+
+   Nous espérons que ces vidéos vous ont plu et qu'elles vous ont appris des choses
+   
+# Merci et à bientot sur Bourgau Film's !!!   
+
+
 
 
 
