@@ -55,13 +55,21 @@ N'étant pas encore sorti, ce film d'espionnage est prévu pour Janvier 2020.
 
 ## Tournages
 
-25/11/19: Bougival, scènes 6 et 7 de 17:30 à 18:45
+25/11/19: Bougival, scènes 6 et 7 de 18:15 à 19:15
 
 ## Événements 
 
-5 janvier 2020: première représentation du film _Troisième Tentative 001_ 
+5 janvier 2020: première représentation du film _Troisième Tentative 001_.
 
-# Merci et à bientôt sur Bourgau Film's !!
+
+
+# Merci et à bientôt sur Bourgau Film's !!!
+
+
+
+
+
+
 
 
 
