@@ -46,6 +46,7 @@ N'étant pas encore sorti, ce film d'espionnage est prévu pour Janvier 2020.
 ![clés USB](Capcle.png)
 
 Si vous voulez vous procurer un de nos films, vous pouvez nous demander une de nos clés USB gratuitement en vous rendant dans une de nos représenations dans les cinémas _Bourgau Ciné'_.
+
    Vous pouvez aussi nous faire un don pour que _Bourgau Film's_ puisse s'acheter du matériel ou améliorer ses techniques. 
 
 ## Ce qui pourrai vous interresser
@@ -62,12 +63,14 @@ Si vous voulez vous procurer un de nos films, vous pouvez nous demander une de n
 
 ## Tournages
 
-25/11/19: Bougival, scènes 6 et 7 de 18:15 à 19:15
+Lundi 16 décembre de 17:30 à 18:30. 
+Mercredi 18 décembre de 17:00 à 18:00.
+Vendredi 20 décembre de 18:00 à 19:00.
+Samedi 21 décembre de 15:00 à 17:30.
 
 ## Événements 
 
-5 janvier 2020: première représentation du film _Troisième Tentative 001_.
-
+Dimanche 12 janvier: première représentation du film _Troisième Tentative 001_ dans les cinémas _Bourgau Ciné'_.
 
 
 # Merci et à bientôt sur Bourgau Film's !!!
