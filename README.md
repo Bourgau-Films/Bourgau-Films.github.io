@@ -72,7 +72,7 @@ Samedi 21 décembre | 15:00 à 17:30
 
 ## Événements 
 
-Dimanche 12 janvier: première représentation du film _Troisième Tentative 001_ dans les cinémas _Bourgau Ciné'_.
+**Dimanche 12 janvier:** première représentation du film _Troisième Tentative 001_ dans les cinémas _Bourgau Ciné'_.
 
 
 # Merci et à bientôt sur Bourgau Film's !!!
