@@ -45,7 +45,7 @@ N'étant pas encore sorti, ce film d'espionnage est prévu pour Janvier 2020.
 
 ![clés USB](Capcle.png)
 
-Si vous voulez vous procurer un de nos films, vous pouvez nous demander une de nos clés USB gratuitement en vous rendant dans une de nos représenations dans les cinémas _Bourgau Ciné'_.
+Si vous voulez vous procurer un de nos films, vous pouvez nous demander une de nos clés USB gratuitement en vous rendant dans une de nos représentations dans les cinémas _Bourgau Ciné'_.
 
    Vous pouvez aussi nous faire un don pour que _Bourgau Film's_ puisse s'acheter du matériel ou améliorer ses techniques. 
 
