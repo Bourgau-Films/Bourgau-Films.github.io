@@ -63,10 +63,12 @@ Si vous voulez vous procurer un de nos films, vous pouvez nous demander une de n
 
 ## Tournages
 
-Lundi 16 décembre de 17:30 à 18:30. 
-Mercredi 18 décembre de 17:00 à 18:00.
-Vendredi 20 décembre de 18:00 à 19:00.
-Samedi 21 décembre de 15:00 à 17:30.
+Date | Horaires
+---- | --------
+Lundi 16 décembre | 17:30 à 18:30 
+Mercredi 18 décembre | 17:00 à 18:00
+Vendredi 20 décembre | 18:00 à 19:00
+Samedi 21 décembre | 15:00 à 17:30
 
 ## Événements 
 
