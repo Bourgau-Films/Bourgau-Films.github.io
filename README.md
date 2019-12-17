@@ -49,7 +49,7 @@ Si vous voulez vous procurer un de nos films, vous pouvez nous demander une de n
 
    Vous pouvez aussi nous faire un don pour que _Bourgau Film's_ puisse s'acheter du matériel ou améliorer ses techniques. 
 
-## Ce qui pourrai vous interresser
+## Ce qui pourrait vous interresser
 
 [1jour1actu-petite histoire du cinéma](https://www.1jour1actu.com/info-animee/qui-a-invente-le-cinema/)
 
