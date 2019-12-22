@@ -37,7 +37,7 @@ Lui aussi sorti en fin Juillet 2019, c'est l'histoire de la jalousie d'un berger
 
 ### Troisième Tentative 001
 
-N'étant pas encore sorti, ce film d'espionnage est prévu pour Janvier 2020. 
+Troisième Tentative 001 est un film d'espionnage, de crimes et de cambriolages. Il est sorti le 22 Décembre 2019 et sa première représentation est prévue le 25 de ce mois.  
 
 [![Troisième Tentative 001](Troisièmetentative001.png)](https://www.youtube.com/watch?v=4NtmfqOH3K8)
 
