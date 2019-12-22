@@ -67,9 +67,7 @@ Si vous voulez vous procurer un de nos films, vous pouvez nous demander une de n
 
 Date | Horaires
 ---- | --------
-Mercredi 18 décembre | 17:00 à 18:00
-Vendredi 20 décembre | 18:00 à 19:00
-Samedi 21 décembre | 15:00 à 17:30
+/ | /
 
 ## Événements 
 
