@@ -79,8 +79,7 @@ Date | Horaires
 
 ## Événements 
 
-**Mercredi 25 Décembre:** première représentation du film _Troisième Tentative 001_ dans les cinémas _Bourgau Ciné'_.
-
+**Aucun événements prévus**
 
 # Merci et à bientôt sur Bourgau Film's !!!
 
