@@ -51,6 +51,10 @@ Ruthless Slimane est un film de magie. N'étant pas encore sorti, ce film est pr
 
 ##### Bande-annonce indisponible
 
+## Nos succès
+
+![Succès](blbl.png)
+
 ## Se procurer nos films
 
 ![clés USB](Capcle.png)
