@@ -47,7 +47,7 @@ Troisième Tentative 001 est un film d'espionnage, de crimes et de cambriolages.
 
 Ruthless Slimane est un film de magie. N'étant pas encore sorti, ce film est prévu pour Mai 2020. 
 
-![Ruthless Slimane](ruthless.png)
+![Ruthless Slimane](ruthless.aa.png)
 
 ##### Bande-annonce indisponible
 
