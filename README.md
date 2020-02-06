@@ -41,8 +41,6 @@ Troisième Tentative 001 est un film d'espionnage, de crimes et de cambriolages.
 
 [![Troisième Tentative 001](Troisièmetentative001.png)](https://www.youtube.com/watch?v=4NtmfqOH3K8)
 
-[Faire le quiz](https://bourgau-films.github.io/Quiz-Troisieme-tentative-001/)
-
 ### Ruthless Slimane
 
 Ruthless Slimane est un film de magie. N'étant pas encore sorti, ce film est prévu pour Mai 2020. 
@@ -89,7 +87,7 @@ Date | Horaires
 
 Troisième Tentative 001 bientôt en livre sur amazon.fr !
 
-
+[Faire le quiz](https://bourgau-films.github.io/Quiz-Troisieme-tentative-001/)
 
 # Merci et à bientôt sur Bourgau Film's !!!
 
