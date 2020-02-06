@@ -87,7 +87,7 @@ Date | Horaires
 
 Troisième Tentative 001 bientôt en livre sur amazon.fr !
 
-[Faire le quiz](https://bourgau-films.github.io/Quiz-Troisieme-tentative-001/)
+![Capture d’écran 2020-01-28 à 17.15.57.png](https://bourgau-films.github.io/Quiz-Troisieme-tentative-001/)
 
 # Merci et à bientôt sur Bourgau Film's !!!
 
