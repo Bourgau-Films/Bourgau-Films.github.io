@@ -85,6 +85,12 @@ Date | Horaires
 
 **Aucun événements prévus**
 
+## Nouveau !
+
+Troisième Tentative 001 bientôt en livre sur amazon.fr !
+
+
+
 # Merci et à bientôt sur Bourgau Film's !!!
 
 
