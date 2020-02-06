@@ -87,7 +87,7 @@ Date | Horaires
 
 Troisième Tentative 001 bientôt en livre sur amazon.fr !
 
-[![couverture](Capture%20d’écran%202020-01-28%20à%2017.15.57.png)](https://github.com/Bourgau-Films/Troisieme-Tentative-001-Le-Livre)
+[![couverture](Capture%20d’écran%202020-01-28%20à%2017.15.57.png)](https://bourgau-films.github.io/Troisieme-Tentative-001-Le-Livre/)
 
 # Merci et à bientôt sur Bourgau Film's !!!
 
