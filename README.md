@@ -8,7 +8,7 @@ Aussi, vous pouvez aller vister notre chaîne Youtube et y voir nos dessins-anim
 
 [Notre chaîne Youtube](https://www.youtube.com/channel/UCJlcDHQKwoStAThGKNaWd3A)
 
-![L'affiche de bourgau films](affiche-bourgau-films.png)
+![L'affiche de bourgau films](Capture%20d’écran%202020-02-10%20à%2011.47.25.png)
 
 ## Membres 
 
