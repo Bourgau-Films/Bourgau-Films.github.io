@@ -79,7 +79,7 @@ Maintenant, Bourgau Film's Professionnel est là pour vous aider en mettant à v
    -des leçons de grammaire
    -des leçons de conjugaison. 
    
-   Aperçu%20de%20la%20chaîne.mp4
+![Apercu](Aperçu%20de%20la%20chaîne.mp4)
    
 # Espace Agenda
 
