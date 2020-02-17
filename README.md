@@ -76,8 +76,11 @@ Si vous voulez vous procurer un de nos films, vous pouvez nous demander une de n
 Maintenant, Bourgau Film's Professionnel est là pour vous aider en mettant à votre disposition:
 
    -des totus sur Imovie
+   
    -des tutos sur Final Cut Pro
+   
    -des leçons de grammaire
+   
    -des leçons de conjugaison. 
    
 ![Apercu](Aperçu%20de%20la%20chaîne.mp4)
