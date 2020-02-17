@@ -71,6 +71,16 @@ Si vous voulez vous procurer un de nos films, vous pouvez nous demander une de n
 
    Nous espérons que ces vidéos vous ont plu et qu'elles vous ont appris des choses.
    
+# Bourgau Film's Professionnel
+
+Maintenant, Bourgau Film's Professionnel est là pour vous aider en mettant à votre disposition:
+   -des totus sur Imovie
+   -des tutos sur Final Cut Pro
+   -des leçons de grammaire
+   -des leçons de conjugaison. 
+   
+   
+   
 # Espace Agenda
 
 ## Tournages
