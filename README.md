@@ -90,7 +90,7 @@ Maintenant, Bourgau Film's Professionnel est là pour vous aider en mettant à v
 Numéro | Durée | Titre | Notions
 -------|-------|-------|--------
 1 | 7min49 | Tuto-Comment faire un montage sur iMovie sur Mac | Faire des titres, incruster des vidéos, mettre des arrières plans et des audios.
-
+2 | 13min20 | Tuto-Comment faire un itinéraire sur iMovie sur Mac | Programmer des itinéraires sur les cartes d'arrière plan, mettre des audios et des titres
    
 # Espace Agenda
 
