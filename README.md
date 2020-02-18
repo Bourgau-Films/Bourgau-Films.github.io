@@ -83,7 +83,14 @@ Maintenant, Bourgau Film's Professionnel est là pour vous aider en mettant à v
    
    -des leçons de conjugaison. 
    
-[![Apercu](Aperçu%20de%20la%20chaîne.mp4)](https://www.youtube.com/channel/UCveDE9GnCdk5Xg7oK4m88fQ)
+[![Apercu](Aperçu%20de%20ma%20chaîne.mp4)](https://www.youtube.com/watch?v=u5j6j0hQB14)
+
+### Vidéos
+
+Numéro | Durée | Titre | Notions
+-------|-------|-------|--------
+1 | 7min49 | Tuto-Comment faire un montage sur iMovie sur Mac | Faire des titres, incruster des vidéos, mettre des arrières plans eet des audios. 
+
    
 # Espace Agenda
 
